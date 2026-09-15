@@ -12,7 +12,7 @@ Drama, Thriller — specifically a **wrongful-accusation crime thriller with a s
 
 *When a peaceful taxi station master is wrongly accused of nearly killing his wife and linked to a murder he had nothing to do with, the same instinct that made him beloved — his refusal to explain or defend himself — becomes the evidence that could cost him his freedom.*
 
-(Working version — refine once Saaba's characterization is locked, since that will sharpen it further. Title is now settled, so the logline no longer needs to hedge on that.)
+(Working version — now tightened 2026-09-15: Saaba was on the phone with her father Nanfuri when attacked, which sharpens the personal stakes. Title is now settled, so the logline no longer needs to hedge on that.)
 
 ## Central mystery / spine question
 
@@ -30,10 +30,11 @@ Drama, Thriller — specifically a **wrongful-accusation crime thriller with a s
 
 **🔴 Open.** Not yet discussed directly. For reference: the 27-chapter outline at a typical crime-thriller chapter length (2,500–3,500 words) would land the manuscript around **75,000–95,000 words** — squarely inside standard adult crime/thriller market range (usually 70k–100k). If you're aiming shorter or longer, several chapters in the outline (especially the Act IV investigation chapters, 17–21) are the easiest to compress or expand without damaging structure.
 
-## What's now settled and doesn't need revisiting
+## What's now settled and doesn't need revisiting (updated 2026-09-15)
 
 - Central mystery/spine (locked)
-- Core cast and their functions (Character Dossiers)
-- Full timeline (Master Timeline)
-- All plot mechanics — carjacking, Mansa's fall, the recording, the land-guard motive, the cemetery (Mystery/Clue Ledger)
+- Core cast and their functions (Character Dossiers) — **now includes:** Saaba's call identity (with father Nanfuri), Abena's instigation (canon), Nene as fixed anchor, Lydia removed
+- Full timeline (Master Timeline) — **now includes:** Last Stop = junction/barrier (same location), Saaba's house 7 houses from Last Stop, uncompleted building distinct from cemetery, recording = father-daughter call
+- All plot mechanics — carjacking, Mansa's fall (now on Abena's advice), the recording (father-daughter call), the land-guard motive, the cemetery (Mystery/Clue Ledger)
 - Illustration approach (Style Guide)
+- Geography locks (World Bible) — Last Stop/junction, Saaba distance, uncompleted building separation
