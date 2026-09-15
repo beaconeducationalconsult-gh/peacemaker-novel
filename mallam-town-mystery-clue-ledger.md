@@ -6,19 +6,20 @@ Trimmed to the mysteries that should drive chapters (per the earlier structural 
 
 ## CORE MYSTERY 1 — Where is Mansa / what happened to her?
 
-**True answer:** She suspected Kwame of infidelity, tried to sneak out to follow him immediately after he stormed out, fell climbing through the window, hit her head. Her phone died from the impact of the fall, not because she switched it off.
+**True answer:** She suspected Kwame of infidelity — **suspicion actively stoked by Abena's advice ("you still think I should follow him?")** — tried to sneak out to follow him immediately after he stormed out, fell climbing through the window, hit her head. Her phone died from the impact of the fall, not because she switched it off.
 
 | Element | Detail | Chapter (fill in) |
 |---|---|---|
 | Plant | The argument itself — her specific accusation is about money/suspicion, not generic nagging | — |
+| Plant | Abena's encouragement beforehand — **now canon:** Abena says "you still think I should follow him?" before 11:42 p.m., which Mansa acts on. Establish this beat in Ch. 4 so the fall has a planted cause, not just an impulse. | — |
 | Plant | Establish early that the window is her habitual way of watching him leave, or that she's done something like this before (small scale) — gives the fall physical plausibility | — |
 | Plant / clue | Someone in the compound hears the bang of her fall right after Kwame leaves, but doesn't know where it came from and dismisses it — a clean plantable clue for later (a witness who unknowingly heard the one sound that mattered) | — |
 | Red herring | The open window + curtain + Kwame's own panic reads, to the CID officers and the reader, as evidence *he* pushed her | — |
 | Red herring | Neighbour testimony ("she even called him useless") reinforces the abuse-narrative the community assumes | — |
 | Red herring | Her phone being unreachable when Kwame calls reads, to him and later investigators, as her having switched it off deliberately — not that it died from the fall | — |
-| Payoff | Mansa wakes and confesses — timed to land at Kwame's breaking point / near arraignment | — |
+| Payoff | Mansa wakes and confesses — timed to land at Kwame's breaking point / near arraignment. **Followed by Abena's confession that she encouraged the following (Ch. 23).** | — |
 
-**✅ Decided:** The fall happens *before* Kwame's search of the room — immediately after he storms out, not during or after his return.
+**✅ Decided:** The fall happens *before* Kwame's search of the room — immediately after he storms out, not during or after his return. **And it was based on Abena's advice — now locked as canon.**
 
 **✅ Revised per the single-POV decision:** the original plan to show the reader a Mansa-POV fragment of the fall no longer works — there is no Mansa POV in this book. The dramatic irony survives in a weaker but still real form: as Kwame later encounters evidence and testimony (medical details about the fall, the account of the unnoticed witness who heard the bang), a careful reader can piece together that this doesn't match an assault before Kwame consciously voices the doubt himself. Recommend planting at least one concrete physical detail (something about how she landed, or an inconsistency in the "he pushed her" theory) early enough in Act III–IV that its significance can dawn on the reader a beat before it dawns on Kwame — irony through noticing, not through privileged access.
 
@@ -26,35 +27,35 @@ Trimmed to the mysteries that should drive chapters (per the earlier structural 
 
 ## CORE MYSTERY 2 — What happened to Kwame?
 
-**True answer:** Stopped by three robbers (two men, a woman) asking for a ride; he refuses twice, even against extra pay and then at gunpoint, because he's preoccupied with finding Mansa; they drag him from the car and beat him nearly to death, then dump him in an uncompleted building and drive off in his car.
+**True answer:** Stopped by three robbers (two men, a woman) asking for a ride; he refuses twice, even against extra pay and then at gunpoint, because he's preoccupied with finding Mansa; they drag him from the car and beat him nearly to death, then dump him in an uncompleted building (bush-surrounded, **not near the cemetery**) and drive off in his car.
 
 | Element | Detail | Chapter (fill in) |
 |---|---|---|
-| Plant | Kwame's compulsive sense of duty as station master — already shown via the egg-seller incident — is what puts him on the road alone at night | — |
+| Plant | Kwame's compulsive sense of duty as station master — already shown via the egg-seller incident — is what puts him on the road alone at night (sitting at Last Stop/junction, answering stranded-passenger call) | — |
 | Plant | Establish the uncompleted buildings' reputation ("notorious for being used by hoodlums and drug peddlers") *before* he's found there, so his hiding spot doesn't feel arbitrary | — |
 | Plant / character beat | Kwame refuses the robbers even at gunpoint because he's fixated on finding Mansa — an echo of the immovable calm from the egg-seller scene, this time turned dangerous rather than admirable | — |
 | Red herring | His disappearance, combined with the argument, reads to the town as flight from guilt | — |
-| Payoff | Nene finds him; his account of the attack (once he can speak) starts to unravel the town's assumption | — |
+| Payoff | Nene finds him near that same uncompleted building; his account of the attack (once he can speak) starts to unravel the town's assumption | — |
 
 ---
 
 ## CORE MYSTERY 3 — Who killed Saaba, and why?
 
-**True answer:** A land-guard crew — but from a different community, not Chocho's Mallam Town network — using Kwame's stolen car to rob what they believed was an easy, newly built, unregistered house.
+**True answer:** A land-guard crew — but from a different community, not Chocho's Mallam Town network — using Kwame's stolen car to rob what they believed was an easy, newly built, unregistered house (Saaba's house, seven houses from Last Stop/junction — the freshest build on that stretch).
 
 | Element | Detail | Chapter (fill in) |
 |---|---|---|
 | Plant | The community's own speculation already floats the real motive without knowing it: "he targeted Saaba's house because it was the freshest house in the community... the owner could possibly be rich" | — |
-| Plant | Establish Saaba's house as new/unregistered/recently built, ideally with a passing mention of land disputes or land-guard activity in the area | — |
-| Plant / red herring | Community gossip blames land guards for the Camry breaking through the police barrier (Day 0 evening) — seeds the land-guard/robbery association in the reader's mind well before Saaba's death, while reading at the time as just more town talk | — |
+| Plant | Establish Saaba's house as new/unregistered/recently built (seven houses from Last Stop), ideally with a passing mention of land disputes or land-guard activity in the area | — |
+| Plant / red herring | Community gossip blames land guards for the Camry breaking through the police barrier (Day 0 evening at the junction/Last Stop) — seeds the land-guard/robbery association in the reader's mind well before Saaba's death, while reading at the time as just more town talk | — |
 | Red herring | Because land guards are already associated with the Camry and with Chocho in the reader's mind, suspicion naturally falls on **Chocho's own crew** once the recording's background voice surfaces — a red herring that makes his later cooperation land as a genuine turn, not a foregone conclusion | — |
 | Payoff / twist | Chocho is brought in to identify the voice and states plainly that the man belongs to a land-guard group from **a different community** — clearing his own men and giving police an external lead | — |
-| Red herring | Because it's Kwame's car, everyone assumes personal motive (jealousy, debt, targeting Nanfuri's family) rather than opportunistic crime | — |
-| Payoff | The recording (see Mystery 5) reveals the robbers' actual identity and leads to their arrest | — |
+| Red herring | Because it's Kwame's car, everyone assumes personal motive (jealousy, debt, targeting Nanfuri's family) rather than opportunistic crime — **now intensified because Saaba was on the phone with Nanfuri, so the personal angle feels even more plausible until debunked** | — |
+| Payoff | The recording (see Mystery 5 — call with Nanfuri) reveals the robbers' actual identity and leads to their arrest at the cemetery | — |
 
 ### ✅ DECIDED — Land guard connection
 
-**Locked in:** Saaba's death is a land-guard hit, giving it a concrete, Accra-specific motive (extortion/enforcement against a new, unregistered build) instead of a generic "criminals." This also gives Lydia Donkor's involvement a real justification. **Refined per the recording's resolution (Mystery 5):** the actual crew is from a land-guard group in a *different* community — not Chocho's own Mallam Town network. Chocho is the one who identifies this once police bring him the recording, which clears his crew and produces the lead that ends in arrest.
+**Locked in:** Saaba's death is a land-guard hit, giving it a concrete, Accra-specific motive (extortion/enforcement against a new, unregistered build) instead of a generic "criminals." This also previously gave Lydia Donkor's involvement a justification — **but per 2026-09-15, Lydia is removed from the cast.** Investigation now proceeds directly via Nanfuri (who was on the call) → Chocho identification → cemetery arrest, without CID Director-General layer. **Refined per the recording's resolution (Mystery 5):** the actual crew is from a land-guard group in a *different* community — not Chocho's own Mallam Town network. Chocho is the one who identifies this once police bring him the recording, which clears his crew and produces the lead that ends in arrest.
 
 This reframes the earlier manhunt beat in a stronger direction:
 
@@ -72,7 +73,7 @@ This reframes the earlier manhunt beat in a stronger direction:
 
 ## CORE MYSTERY 4 — How did Kwame's car end up at the robbery?
 
-**True answer:** Not a theft from an unconscious man — a carjacking that escalates. Three robbers flag him down for a ride; he refuses, even against extra pay and then at gunpoint; the leader reaches into the car to kill the ignition, drags him out, and the group beats him unconscious before driving off in the car (see Timeline Day 0).
+**True answer:** Not a theft from an unconscious man — a carjacking that escalates. Three robbers flag him down for a ride near Last Stop/junction; he refuses, even against extra pay and then at gunpoint; the leader reaches into the car to kill the ignition, drags him out, and the group beats him unconscious before driving off in the car **to Saaba's house seven houses away**.
 
 | Element | Detail | Chapter (fill in) |
 |---|---|---|
@@ -84,18 +85,18 @@ This reframes the earlier manhunt beat in a stronger direction:
 
 ## CORE MYSTERY 5 — What's on the recording found at Saaba's house?
 
-**True answer:** A phone call Saaba was on when the robbers entered — it captures her reaction and a background voice that lets slip a name.
+**True answer:** ✅ **Decided (2026-09-15): A phone call Saaba was on with her father, Chief Inspector Nanfuri, when the robbers entered** — it captures her reaction and a background voice that lets slip a name. Nanfuri heard the intrusion begin live on his end before the call cut; the house recording (her side) provides the clearer audio that becomes evidence.
 
 | Element | Detail | Chapter (fill in) |
 |---|---|---|
-| Plant | Establish that Saaba's house has some recording device/reason to be recording *before* the robbery — a doorbell camera, a phone left recording, a call in progress — so its existence doesn't feel convenient when introduced | — |
+| Plant | Establish that Saaba's house has reason to have captured the call — phone left on/call in progress with father — so its existence doesn't feel convenient when introduced. Plant that father-daughter calls in the evening are routine (so this night's call is ordinary, not unusual). | — |
 | Function | Per the structural discussion: it should raise questions before it answers them — voices, a partial vehicle description, someone using a name — not a clean confession | — |
-| Plant/payoff | The background voice on the call exposes a name — enough for police to have a lead but not enough to know whose network it belongs to | — |
+| Plant/payoff | The background voice on the call exposes a name — enough for police to have a lead but not enough to know whose network it belongs to. Nanfuri recognizes the call but not the voice's affiliation. | — |
 | Payoff | Police bring **Chocho** in to listen and identify whether the name/voice belongs to one of his own men | — |
 | Payoff / twist | **Chocho states the man belongs to a land-guard group from a different community — not Mallam Town.** This both clears Chocho's own crew and gives police a concrete lead outside Mallam Town. | — |
-| Payoff | This identification **leads directly to the robbers' arrest.** | — |
+| Payoff | This identification **leads directly to the robbers' arrest at the cemetery.** | — |
 
-**✅ Decided — Content of the recording:** Option (c). It's not a clean confession — it's a name overheard in the background of a call that Saaba was on when the robbers broke in, which only becomes actionable once Chocho is consulted and rules his own men out.
+**✅ Decided — Content of the recording:** It's not a clean confession — it's a name overheard in the background of the **father-daughter call** that Saaba was on with Nanfuri when the robbers broke in, which only becomes actionable once Chocho is consulted and rules his own men out. **Emotional note:** This makes the recording devastating for Nanfuri specifically — it is his daughter's last call *to him* — and raises the stakes of Ch. 21 where he tells Kwame what he heard.
 
 **Note — this also refines Mystery 3's true answer below**, since it's now clear the culprits are land guards from *outside* Mallam Town, not Chocho's own network.
 
@@ -107,13 +108,13 @@ This reframes the earlier manhunt beat in a stronger direction:
 
 **True answer:** The cemetery is the outside land-guard crew's staging ground/hideout, not a supernatural site. Nanfuri senses this correctly on Day 0 and makes the professional call to withdraw rather than pursue alone.
 
-**✅ Revised per the single-POV decision:** there is no Nanfuri POV in this book, so his Day 0 interiority at the cemetery gate can't be dramatized directly. The plant now works secondhand — Kwame, back at the station, hears the two officers came back shaken and wouldn't say why, and that the pursuit was called off at a cemetery gate under mysterious circumstances. That's the seed of Mystery 6 for most of the book: an unexplained detail the reader (with Kwame) can't do anything with yet. The **full reveal — what Nanfuri actually sensed and why he withdrew — now belongs entirely to the Ch. 21 conversation** between Nanfuri and Kwame, where Nanfuri tells it directly rather than the reader having witnessed it in real time back in Ch. 3. This makes Ch. 21 do more work than originally planned — worth giving it real space when drafted, since it's now carrying both the mystery's plant-completion and its full payoff in one scene.
+**✅ Revised per the single-POV decision:** there is no Nanfuri POV in this book, so his Day 0 interiority at the cemetery gate can't be dramatized directly. The plant now works secondhand — Kwame, back at the station, hears the two officers came back shaken and wouldn't say why, and that the pursuit was called off at a cemetery gate under mysterious circumstances. That's the seed of Mystery 6 for most of the book: an unexplained detail the reader (with Kwame) can't do anything with yet. The **full reveal — what Nanfuri actually sensed and why he withdrew — now belongs entirely to the Ch. 21 conversation** between Nanfuri and Kwame, where Nanfuri tells it directly rather than the reader having witnessed it in real time back in Ch. 3. This makes Ch. 21 do more work than originally planned — worth giving it real space when drafted, since it's now carrying both the mystery's plant-completion and its full payoff in one scene. **Additional layer per 2026-09-15:** In that same Ch. 21 conversation, Nanfuri can also tell Kwame he was on the phone with Saaba when she was attacked, tying Mystery 6 to Mystery 5 emotionally.
 
 | Element | Detail | Chapter (fill in) |
 |---|---|---|
 | Plant | Station gossip: the officers who chased the Camry come back shaken and close-mouthed about what happened near the cemetery gate — this replaces the original "reader sees Nanfuri's dread directly" plant | — |
 | Plant | The masked man photographed Nanfuri before shooting — this detail can still reach Kwame secondhand, as a striking piece of the story that circulates at the station | — |
-| Payoff | Ch. 21: Nanfuri tells Kwame directly what he actually sensed at the cemetery gate and why he chose to withdraw — this is now where the reader learns it too, at the same time Kwame does | — |
+| Payoff | Ch. 21: Nanfuri tells Kwame directly what he actually sensed at the cemetery gate and why he chose to withdraw — this is now where the reader learns it too, at the same time Kwame does. **He also reveals he was on the call with Saaba, adding personal weight to the recording's later use.** | — |
 | Payoff | The robbers' arrest happens at or returning to the cemetery, closing the structural loop back to Day 0's opening — Kwame learns of this arrest from Nanfuri as well (Ch. 25), not by witnessing it | — |
 
 **✅ Decided — Genre:** Full dread in the *telling* (Nanfuri's own account in Ch. 21 should carry that weight retrospectively), fully rational content — the eeriness was Nanfuri's nervous system correctly reading danger, not anything otherworldly.
@@ -125,8 +126,8 @@ This reframes the earlier manhunt beat in a stronger direction:
 
 These don't need clue-tracking the way the above do — they're arcs, not puzzles — but note them here so nothing gets dropped:
 
-- **Abena's guilt arc**: she fed Mansa's suspicion before the argument even happened; her arc is realizing her gossip helped destroy a man's life. Track *what she knew and when* separately if you want her to eventually be the one who supplies a missing piece.
-- **Nanfuri's grief**: father investigating his own daughter's death while professionally bound to procedure — emotional throughline, not a mystery to solve.
+- **Abena's guilt arc — ✅ CANON:** she fed Mansa's suspicion before the argument ("you still think I should follow him?") and Mansa acted on it; her arc is realizing her gossip/advice helped cause the fall and nearly destroyed a man's life, culminating in confession in Ch. 23. Track *what she knew and when* — her private guilt is held the whole book.
+- **Nanfuri's grief:** father investigating his own daughter's death *having heard it begin on the phone with her* while professionally bound to procedure — emotional throughline, not a mystery to solve. Now intensified by the call identity.
 - **Community gossip as antagonist**: the conspiracy theories functionally act as a second, diffuse "villain" — track which false version is dominant at which point in the timeline, since it should escalate before the recording starts to puncture it.
 
 ---
